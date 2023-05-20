@@ -1,5 +1,6 @@
 Art Cover URL: 
 Tracks:
+    #1
     Track name:
     song start time:
     Explicit (Yes/No):
