@@ -1,6 +1,8 @@
 Art Cover URL: 
 Tracks:
+    Track name:
     song start time:
+    Explicit (Yes/No):
     artist(s):
 
 
